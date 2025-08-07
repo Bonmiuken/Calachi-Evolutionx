@@ -1,5 +1,3 @@
-{P}:/Calachi [""]
-Clachi INC
 These people have helped this project in some way or another, so they should be the ones who receive all the credit:
 - [Evolution X Team](https://github.com/Evolution-X)
 - [Phhusson](https://github.com/phhusson)
